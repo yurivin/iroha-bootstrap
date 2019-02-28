@@ -1,0 +1,4 @@
+rootProject.name = 'delivery-service'
+
+include 'bootstrap'
+project(':bootstrap').projectDir = 'bootstrap' as File
